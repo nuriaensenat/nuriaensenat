@@ -1,4 +1,6 @@
-## a
+## pAto
+
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/nuriaensenat/nuriaensenat/output/github-contribution-grid-snake.svg" />
 
 <!--
 **nuriaensenat/nuriaensenat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
