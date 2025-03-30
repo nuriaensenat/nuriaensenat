@@ -1,5 +1,5 @@
 ## pAto
-Hello! I am a Computer Engineering student who is passionate about cats, gaming, books, art and music :)
+Hello! I am a Computer Science student who is passionate about cats, gaming, books, art and music :)
 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿  
